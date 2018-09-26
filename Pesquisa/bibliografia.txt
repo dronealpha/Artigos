@@ -1,0 +1,18 @@
+########################################
+##############bibliografia##############
+########################################
+Fonte:getrotech
+Link:https://www.getrotech.com.br/Artigos/tipos-sensores-industriais/
+-----------------------------------------------------------------------------------------------------------------------------------
+Fonte:publico
+Link:https://www.publico.pt/2018/05/01/tecnologia/noticia/nas-empresas-chinesas-os-chapeus-avisam-quando-um-trabalhador-precisa-de-folga-1815956
+-----------------------------------------------------------------------------------------------------------------------------------
+Autores:Daniel Thomazini/Pedro urbano Braga de Albuquerque
+Livro:Sensores Industriais fundamentos e aplicações
+Editora:erica
+Capitulo:Sensores de presença
+-----------------------------------------------------------------------------------------------------------------------------------
+Autores:Kimmo Karvinen/Tero Karvinen
+Livro:Primeiros passos com sensores
+Editora:novatec
+Capitulo:Sensores e o Arduino
