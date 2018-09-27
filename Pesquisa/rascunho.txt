@@ -1,0 +1,34 @@
+Abstract -
+Sensors are the better way of interpret and measure informations analog, are alway gift and our around.
+Felling how could, hot, near, far or until if determinate information are or not available in that.
+Between this devices studied we have the technology sensory how infrared, sensors ultrasonic and RFID.
+Was to maked a study about the operation of the same and the use yours particularities for an identification of peoples and access control in certain environments. 
+key words:Sensors, Identification, access control
+
+
+Resumo -
+Sensores são o melhor jeito de interpretar e de mensurar informações totalmente analogicas, que estão sempre presentes e ao nosso redor. Sensações como frio, quente , perto , longe ou até mesmo se determinada informação esta ou não disponivel.
+Ente esses dispositivos estudados nos temos as tecnologias sensoriais como infra-vermelho, sensores ultra-sônicos e RFID.
+Foi realizado um estudo sobre o funcionamento dos mesmos e o uso de suas particularidades para a identificação de pessoas e controle de acesso em determinados ambientes.
+
+Palavras chaves: Sensores, Identificação, controle de acesso.
+
+
+Introdução - 
+Com os avanços tecnologicos obtidos durante o processos históricos , revoluções industriais, guerras e necessidades, o uso de tecnologias empregadas para o minotoramento e detecção de pessoas em determinados locais se tornou um grande desafio.
+Ter ferramentas que podem indicar a presença de um individuo onde ele deveria ou não esta, e com isso desempenhar uma determinanda ação.
+Entre as diversas maneiras temos sensores os sensores de infra-vermelhor usando feixes de luz e muito usado em alarmes, ultra-sônico que faz a utilização de cristas que ressoam para informar a proximidade de um objeto ou pessoa ou o uso de etiquetas do tipo RFID (identificação por radio frequencia).
+
+Muitos desses recursos são empregados nas mais diversas aréas como nas industrias e suas linhas de produção para garantir a integridade fisica das pessoas, garantir que empresas e outras instituições possam garantir a segurança controlando o acesso de de suas instalações e edificações, mas também a de suas propriedades intelectuais ou produtos evitando espionagem industrial.
+Ainda sem contar o uso desses recursos para procedimento de salvamento de pessoas, para detecção de proximidade de invasores a residencia ou no auxilio para cuidado com idosos e pessoas que precisam de determinandos cuidados. 
+
+Funcionamento
+O sensor infra-vermelho temos dois tipos ativos e passivos usados para alarmes e sistemas de controle de perimetro.
+Infra-vermelho Ativo: Esse tipo de equipamento tem o mesmo principio que os sensores opticos do tipo barreira. Composto por um receptor e  um transmissor possuindo um suporte que se ajusta ao feixe de luz.  (alarmes – sistems de controle de intrusão).
+
+Infra-vermelho Passivo: É um sensor infravermlho que apenas recepta informações tendo um ajuste de sensibilidade, detecta o calor humano a uma distancia razovel que chega entre 15 a 25 Metros. O elemento sensitivo desse tipo de sensor é pirotérmico integrado.
+
+Sensor ultra-sônico: 
+
+
+
