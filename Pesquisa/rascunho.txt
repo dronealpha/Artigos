@@ -30,5 +30,9 @@ Infra-vermelho Passivo: É um sensor infravermlho que apenas recepta informaçõ
 
 Sensor ultra-sônico: 
 
+Sinais ultra-sônicos operam com frequêcia mais alta, os seus transdutores têm cristais piezelétricos que ressoam a uma determinada frequencia e convertem energia elétria em energia acustica e vice-versa.
 
+
+Etiquetas RFID:
+Esse tipo de tecnologia proporciona a identificação por meio de radio frequencia, onde é possivel armazenar e transmitir informações por dispositivos chamados Etiquetas RFID.
 
