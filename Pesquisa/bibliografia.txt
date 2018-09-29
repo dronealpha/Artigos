@@ -16,3 +16,7 @@ Autores:Kimmo Karvinen/Tero Karvinen
 Livro:Primeiros passos com sensores
 Editora:novatec
 Capitulo:Sensores e o Arduino
+
+------------------------------------------------------------------------------------------------------------------------------------
+Fonte:
+Link:https://www.gestaodesegurancaprivada.com.br/sensor-infravermelho-ativo-iva/
